@@ -1,8 +1,8 @@
 # 🚀 30 Days – 30 Scripts Python
 
-## 🐍 Contribution Snake
-
-![Snake animation](https://github.com/sujal872/Usujal872/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=800&lines=Welcome+to+My+Cyber+Security+Lab;Python+Automation+%7C+Security+Tools;OSINT+%7C+Ethical+Hacking;30+Days+30+Security+Scripts;Always+Learning+Always+Hacking" />
+</p>
 
 A challenge to build **30 Python projects in 30 days**, ranging from **basic automation scripts to security-focused tools**.
 
