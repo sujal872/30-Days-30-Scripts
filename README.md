@@ -1,5 +1,9 @@
 # 🚀 30 Days – 30 Scripts Python
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/sujal872/Usujal872/blob/output/github-contribution-grid-snake.svg)
+
 A challenge to build **30 Python projects in 30 days**, ranging from **basic automation scripts to security-focused tools**.
 
 The goal of this challenge is to improve:
