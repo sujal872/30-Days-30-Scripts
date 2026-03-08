@@ -57,20 +57,20 @@ Each project is organized by day:
 
 # 📅 Projects List
 
-| Day    | Project                   | Description                               |
-| ------ | ------------------------- | ----------------------------------------- |
-| Day 01 | To-Do List CLI            | Simple task manager using file storage    |
-| Day 02 | Random Password Generator | Generate strong passwords                 |
-| Day 03 | Task Manager (JSON Based) | Store and manage tasks with JSON          |
-| Day 04 | Contacts Book             | Contact manager with search & validation  |
-| Day 05 | Password Manager          | CLI password manager with master password |
-| Day 06 | Coming Soon               | Updating...                               |
-| Day 07 | Coming Soon               | Updating...                               |
-| Day 08 | Coming Soon               | Updating...                               |
-| Day 09 | Coming Soon               | Updating...                               |
-| Day 10 | Coming Soon               | Updating...                               |
-| ...    | ...                       | ...                                       |
-| Day 30 | Coming Soon               | Final project                             |
+| Day    | Project                   | Description                                  |
+| ------ | ------------------------- | -----------------------------------------    |
+| Day 01 | Password Generator        | Generate strong passwords & Strength Checker |
+| Day 02 | Number Guessing Game      | A fun and interactive Number Guessing Game   |
+| Day 03 | To-Do List                | Store and manage tasks with JSON             |
+| Day 04 | Contacts Book             | Contact manager with search & validation     |
+| Day 05 | Password Manager          | CLI password manager with master password    |
+| Day 06 | Quiz Game                 | MCQs ,Track user & Calculates Result         |
+| Day 07 | File Organizer            | Sorts files into folders based on extensions |
+| Day 08 | Expense Tracker           | record, manage, and analyze daily expenses   |
+| Day 09 | Coming Soon               | Updating...                                  |
+| Day 10 | Coming Soon               | Updating...                                  |
+| ...    | ...                       | ...                                          |
+| Day 30 | Coming Soon               | Final project                                |
 
 ---
 
@@ -99,12 +99,31 @@ Do not use these scripts for unauthorized or illegal activities.
 
 ---
 
+# 🤝 Contributing
+
+Contributions are welcome!
+
+Steps to contribute:
+
+1. Fork the repository
+2. Create a new branch
+3. Make your changes
+4. Submit a Pull Request
+
+---
+
 # 👨‍💻 Author
 
 **Sujal Karnwal**
 
 Python | Automation | Cybersecurity Learning
 
+
+# 📜 License
+
+This project is **open source** and free to use.
+
 ---
+
 
 ⭐ If you like this project, consider giving it a **star** on GitHub.
